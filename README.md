@@ -1,11 +1,11 @@
 
 <h2 align="center">Bonjour Hi, I'm Ya-Han 👋</h2>
 
-<h3 align="center"> A Front-end developer from Taiwan</h3>
+<h3 align="center"> A Front-end Developer from Taiwan</h3>
 
 > 🌍 Global perspective shaped by life in Taipei 🇹🇼, Paris 🇫🇷, and Montreal 🇨🇦 — adaptable, curious, and culturally fluent<br>
 > 🎶 Driven by creativity and logic — passionate about language, music, and software development<br>
-> 💡 Open-minded and always eager to learn, grow, and build meaningful things<br>
+> 💡 Open-minded, detail-oriented, always eager to learn, grow, and build meaningful things<br>
 
 <h3>💻 Tech Stack</h3>
 <p>

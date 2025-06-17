@@ -2,9 +2,9 @@
 
 <br>
 
-> 🌍 Trilingual (Mandarin, English, French) with global experience from Taipei, Paris, and Montreal — adaptable and culturally fluent<br>
-> 🎶 Passionate about language, music, and software development — blending creativity with logic<br>
-> 💡 Open-minded, curious, and always eager to learn and grow<br>
+> 🌍 Global perspective shaped by life in Taipei, Paris, and Montreal — adaptable, curious, and culturally fluent<br>
+> 🎶 Driven by creativity and logic — passionate about language, music, and software development<br>
+> 💡 Open-minded and always eager to learn, grow, and build meaningful things<br>
 
 ### Ongoing Projects
 - [Team Project - TibaArt | Vue SPA Web Application] (https://tibamef2e.com/tjd101/g2/front)<br>
@@ -33,7 +33,7 @@ Provides interactivity, form validation, and front-end/back-end communication vi
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 Power the backend, including data handling for authentication, sponsorship, member orders, and file uploads.<br>
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=white)
-Enables smooth, performance-optimized animations on the homepage and sponsor sections.<br>
+Enables smooth, performance-optimized animations on the homepage.<br>
 ![Git](https://img.shields.io/badge/Git-2F3136?logo=git&logoColor=orange)
 Used for version control with a feature-branch workflow and collaboration via GitHub.<br>
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)

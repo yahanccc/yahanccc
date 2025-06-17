@@ -1,3 +1,4 @@
+
 ## Hi there I'm Ya-Han from Taiwan 👋
 
 <br>
@@ -6,37 +7,53 @@
 > 🎶 Driven by creativity and logic — passionate about language, music, and software development<br>
 > 💡 Open-minded and always eager to learn, grow, and build meaningful things<br>
 
-> 📫 How to reach me: yahan.chang@hotmail.com
+
+<h3 align="center">💻 Tech Stack</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinia-FFD700?logo=pinia&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-2F3136?logo=git&logoColor=orange" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
+</p>
 
 ---
 
-### 🗓️ Ongoing Projects
-**Team Project - TibaArt | Vue SPA Web Application | https://tibamef2e.com/tjd101/g2/front)** <br>
-  A full-featured single-page application presents an online art exhibition platform, built with Vue 3, Pinia, and PHP/MySQL. It supports user authentication, a member center, expo browsing, donation functionality, and a dynamic shopping cart. The front end is fully modularized and powered by Vue Router and Fetch API.
+<h3 align="center">🗓️ Ongoing Team Project</h3>
+<h4 align="center">TibaArt | Vue SPA Web Application | https://tibamef2e.com/tjd101/g2/front</h4>
+<p align="center">A full-featured single-page application presents an online art exhibition platform, built with Vue 3, Pinia, and PHP/MySQL. It supports user authentication, a member center, expo browsing, donation functionality, and a dynamic shopping cart. The front end is fully modularized and powered by Vue Router and Fetch API.</p>
 
-#### 🛠️ My Contributions:
-- Designed and implemented the **navigation bar** with responsive behavior and active route highlighting using Vue Router.
-- Developed the **homepage**, integrating GSAP-powered scroll animations and structured sections that guide users through the platform’s mission and features, including an interactive art-themed quiz.
-- Built the **member center**, handling user authentication, dynamic rendering of member data, artist exposition status, and donation history — all via seamless API integration with the backend.
+<h3 align="center">🛠️ My Contributions</h3>
 
-***
+<table>
+  <tr>
+    <td align="center"><strong>🔗 Navigation Bar</strong></td>
+    <td align="center"><strong>🎯 Homepage</strong></td>
+    <td align="center"><strong>🧠 Member Center</strong></td>
+  </tr>
+  <tr>
+    <td>
+      Designed and implemented a responsive navigation bar with active route highlighting using Vue Router.
+    </td>
+    <td>
+      Developed the homepage with GSAP-powered scroll animations and structured sections introducing the platform’s mission and features, including an interactive art-themed quiz.
+    </td>
+    <td>
+      Built the member center with login logic, dynamic rendering of member info, artist exposition status, and donation history via seamless API integration.
+    </td>
+  </tr>
+</table>
 
-### 💻 Tech Stack 
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
-![Pinia](https://img.shields.io/badge/Pinia-FFD700?logo=pinia&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=white)
-![Git](https://img.shields.io/badge/Git-2F3136?logo=git&logoColor=orange)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 
-  
+
 <!--
 **yahanccc/yahanccc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

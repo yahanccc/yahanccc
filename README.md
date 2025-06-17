@@ -1,15 +1,14 @@
 
-## Hi there I'm Ya-Han from Taiwan 👋
+<h2 align="center">Bonjour Hi, I'm Ya-Han 👋</h2>
 
-<br>
+<h3 align="center"> A Front-end developer from Taiwan</h3>
 
 > 🌍 Global perspective shaped by life in Taipei 🇹🇼, Paris 🇫🇷, and Montreal 🇨🇦 — adaptable, curious, and culturally fluent<br>
 > 🎶 Driven by creativity and logic — passionate about language, music, and software development<br>
 > 💡 Open-minded and always eager to learn, grow, and build meaningful things<br>
 
-
-<h3 align="center">💻 Tech Stack</h3>
-<p align="center">
+<h3>💻 Tech Stack</h3>
+<p>
   <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Pinia-FFD700?logo=pinia&logoColor=white" />
@@ -26,17 +25,17 @@
 
 ---
 
-<h3 align="center">🗓️ Ongoing Team Project</h3>
-<h4 align="center">TibaArt | Vue SPA Web Application | https://tibamef2e.com/tjd101/g2/front</h4>
-<p align="center">A full-featured single-page application presents an online art exhibition platform, built with Vue 3, Pinia, and PHP/MySQL. It supports user authentication, a member center, expo browsing, donation functionality, and a dynamic shopping cart. The front end is fully modularized and powered by Vue Router and Fetch API.</p>
+<h3>🎯 Ongoing Team Project</h3>
+<h4>TibaArt | Vue SPA Web Application | https://tibamef2e.com/tjd101/g2/front</h4>
+<p>A full-featured single-page application presents an online art exhibition platform, built with Vue 3, Pinia, and PHP/MySQL. It supports user authentication, a member center, expo browsing, donation functionality, and a dynamic shopping cart. The front end is fully modularized and powered by Vue Router and Fetch API.</p>
 
-<h3 align="center">🛠️ My Contributions</h3>
+<h3>🛠️ My Contributions</h3>
 
 <table>
   <tr>
     <td align="center"><strong>🔗 Navigation Bar</strong></td>
-    <td align="center"><strong>🎯 Homepage</strong></td>
-    <td align="center"><strong>🧠 Member Center</strong></td>
+    <td align="center"><strong>🏠 Homepage</strong></td>
+    <td align="center"><strong>👤 Member Center</strong></td>
   </tr>
   <tr>
     <td>

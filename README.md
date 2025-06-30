@@ -25,9 +25,9 @@
 
 ---
 
-<h3>🎯 Ongoing Team Project</h3>
+<h3>🎯  Team Project</h3>
 <h4>TibaArt | Vue SPA Web Application | https://tibamef2e.com/tjd101/g2/front</h4>
-<p>A full-featured single-page application presents an online art exhibition platform, built with Vue 3, Pinia, and PHP/MySQL. It supports user authentication, a member center, expo browsing, donation functionality, and a dynamic shopping cart. The front end is fully modularized and powered by Vue Router and Fetch API.</p>
+<p>A full-featured single-page application presents an online art exhibition platform, built with Vue 3, Pinia, and PHP/MySQL. It supports user authentication, a member center, expo browsing, donation functionality, and an online shop. The front end adopts a modular structure, leveraging Vue Router for navigation and Fetch API for server communication.</p>
 
 <h3>🛠️ My Contributions</h3>
 

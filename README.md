@@ -9,14 +9,14 @@
 
 <h3>💻 Tech Stack</h3>
 <p>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinia-FFD700?logo=pinia&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinia-FFD700?logo=pinia&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-2F3136?logo=git&logoColor=orange" />

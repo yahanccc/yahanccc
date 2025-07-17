@@ -39,13 +39,13 @@
   </tr>
   <tr>
     <td>
-      Designed and implemented a responsive navigation bar with active route highlighting using Vue Router.
+      Designed and implemented a responsive navigation bar with active route highlighting using Vue Router, enhanced with CSS animations and pseudo-element (:before) transitions for dynamic hover effects.
     </td>
     <td>
-      Developed the homepage with GSAP-powered scroll animations and structured sections introducing the platform’s mission and features, including an interactive art-themed quiz.
+      Developed the homepage featuring GSAP-powered scroll animations and structured content sections, including an interactive art-themed quiz with synchronized image-text pairing using Vue's v-bind directive for coordinated hover interactions.
     </td>
     <td>
-      Built the member center with login logic, dynamic rendering of member info, artist exposition status, and donation history via seamless API integration.
+      Built a comprehensive member center featuring user authentication (register/login), dynamic profile rendering, artist exposition tracking, and donation history management through seamless API integration, with Pinia state management controlling user permissions and purchase authorization workflows.
     </td>
   </tr>
 </table>

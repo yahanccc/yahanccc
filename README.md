@@ -39,7 +39,7 @@
   </tr>
   <tr>
     <td>
-      Designed and implemented a responsive navigation bar with active route highlighting using Vue Router, enhanced with CSS animations and pseudo-element (:before) transitions for dynamic hover effects.
+      Designed and implemented a responsive navigation bar with active route highlighting using Vue Router, enhanced with CSS animations and pseudo-element (:after) transitions for dynamic hover effects.
     </td>
     <td>
       Developed the homepage featuring GSAP-powered scroll animations and structured content sections, including an interactive art-themed quiz with synchronized image-text pairing using Vue's v-bind directive for coordinated hover interactions.

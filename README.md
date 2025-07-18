@@ -34,18 +34,18 @@
 <table>
   <tr>
     <td align="center"><strong>🔗 Navigation Bar</strong></td>
-    <td align="center"><strong>🏠 Homepage</strong></td>
     <td align="center"><strong>👤 Member Center</strong></td>
+    <td align="center"><strong>🏠 Homepage</strong></td>
   </tr>
   <tr>
     <td>
       Designed and implemented a responsive navigation bar with active route highlighting using Vue Router, enhanced with CSS animations and pseudo-element (:after) transitions for dynamic hover effects.
     </td>
     <td>
-      Developed the homepage featuring GSAP-powered scroll animations and structured content sections, including an interactive art-themed quiz with synchronized image-text pairing using Vue's v-bind directive for coordinated hover interactions.
+      Built a comprehensive member center featuring user authentication (register/login), dynamic profile rendering, artist exposition tracking, and donation history management through seamless API integration and PHP/MySQL backend implementation. Developed full CRUD operations using PHP for user registration, login verification, profile modifications, and avatar uploads, with MySQL database management for persistent data storage. Implemented Pinia state management controlling user permissions and purchase authorization workflows.
     </td>
     <td>
-      Built a comprehensive member center featuring user authentication (register/login), dynamic profile rendering, artist exposition tracking, and donation history management through seamless API integration, with Pinia state management controlling user permissions and purchase authorization workflows.
+      Developed the homepage featuring GSAP-powered scroll animations and structured content sections, including an interactive art-themed quiz with synchronized image-text pairing using Vue's v-bind directive for coordinated hover interactions.
     </td>
   </tr>
 </table>

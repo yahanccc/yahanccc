@@ -4,7 +4,7 @@
 <h3 align="center"> A Front-end Developer from Taiwan</h3>
 
 > 🌍 Global perspective shaped by life in Taipei 🇹🇼, Paris 🇫🇷, and Montreal 🇨🇦 — adaptable, curious, and culturally fluent<br>
-> 🎶 Driven by creativity and logic — passionate about language, music, and software development<br>
+> 🎶 Driven by creativity and logic — passionate about language, music, and design<br>
 > 💡 Open-minded, detail-oriented, always eager to learn, grow, and build meaningful things<br>
 
 <h3>💻 Tech Stack</h3>
